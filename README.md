@@ -1,5 +1,5 @@
-# Cadastro de Pe?as
+# Cadastro de Pecas
 
-Resolu??o de Exerc?cio para curso Programador Fullstack - Senai.
+Exercicio para curso Programador Fullstack - Senai.
 
-Cria??o de um algoritmo simples para um cadastro de pe?as, estabelecendo regras para nome, quantidade e peso das pe?as.
+Criacao de um algoritmo simples para um cadastro de pecas, estabelecendo regras para nome, quantidade e peso.
